@@ -1,0 +1,86 @@
+header {
+	background: white;
+	margin-top: 10px
+}
+#jumbo {
+    background-color: white;s
+}
+.logo {
+	width: 90px;
+}
+.head {
+	
+	padding-left: 50%;
+	color: #66cdaa;
+	font-family: Raleway;
+	font-weight: 600;
+	font-size: 30px;
+}
+#detel {
+	font-family: Raleway;
+	font-weight: 400;
+	font-size: 20px;
+	text-shadow: 4px 4px 4px #f0f8ff;
+	padding-left: 50%;
+	color: #66cdaa;
+
+}
+hr {
+	width: 100%;
+}
+#titl {
+	font-family: Source Sans Pro;
+	color: #bc8f8f;
+	font-size: 20px; 
+}
+#goal {
+	border-left: 4px solid #bdc3c7;
+	padding-left: 4px;
+}
+#brief {
+	background: #f5f5dc;
+	padding: 20px;
+}
+.Date {
+	color: #d3d3d3;
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+	font-size: 10px;
+}
+.photo {
+	margin-top: 20%;
+}
+
+body {
+	background: #f5f5dc;
+	
+}
+#p-first {
+	color: black;
+}
+#p-last {
+	padding-left: 40%;
+	color: black;
+}
+#head-2 {
+	padding: 20px;
+	color: black;
+}
+.content {
+	margin: 40px;
+	font-family: "Raleway";
+	background: #f5f5dc;
+	color: black;
+}
+
+#gallery {
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 10%; 
+	margin-right: 10%;
+
+
+}
+em {
+	color: gray;
+}
